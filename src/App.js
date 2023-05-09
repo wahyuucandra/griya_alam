@@ -1,20 +1,26 @@
-import Navbar from "./components/Navbar"
-import Pricing from "./pages/Pricing"
-import Home from "./pages/Home"
-import About from "./pages/About"
-import { Route, Routes } from "react-router-dom"
+import React from "react"
+import Header from "./components/header/Header"
+import Nav from "./components/nav/Nav"
+import About from "./components/about/About"
+import Experiences from "./components/experience/Experience"
+import Services from "./components/services/Services"
+import Portofolio from "./components/portofolio/Portofolio"
+import Testimonials from "./components/testimonial/Testimonial"
+import Contacts from "./components/contact/Contact"
+import Footer from "./components/footer/Footer"
 
 function App() {
   return (
     <>
-      <Navbar />
-      <div className="container">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/pricing" element={<Pricing />} />
-          <Route path="/about" element={<About />} />
-        </Routes>
-      </div>
+      <Header/>
+      <Nav/>
+      <About/>
+      <Experiences/>
+      <Services/>
+      <Portofolio/>
+      <Testimonials/>
+      <Contacts/>
+      <Footer/>
     </>
   )
 }

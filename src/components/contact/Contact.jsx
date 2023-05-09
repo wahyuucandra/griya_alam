@@ -3,9 +3,7 @@ import "./Contact.css";
 
 const Contact = () => {
     return (
-        <div>
-            <h1>Ini Contact</h1>
-        </div>
+        <section id='contact'>Contact</section>
     );
 }
 

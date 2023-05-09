@@ -3,9 +3,7 @@ import "./Footer.css";
 
 const Footer = () => {
     return (
-        <div>
-            <h1>Ini Footer</h1>
-        </div>
+        <section id='footer'>Footer</section>
     );
 }
 

@@ -80,7 +80,7 @@ header {
 @media screen and (max-width: 600px){
     header {
         height: 100vh;
-        padding-top: 3rem;
+        padding-top: 6rem;
         overflow: hidden;
     }
 

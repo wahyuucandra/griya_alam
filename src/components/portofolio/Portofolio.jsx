@@ -25,8 +25,8 @@ const Portofolio = () => {
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portofolio__item-cta">
-                        <a href="https://github.com/wahyuucandra" className="btn" target="_blank">Github</a>
-                        <a href="https://github.com/wahyuucandra" className="btn btn-primary" target="_blank">Live Demo</a>
+                        <a href="https://github.com/bangjip22" className="btn" target="_blank">Github</a>
+                        <a href="https://github.com/bangjip22" className="btn btn-primary" target="_blank">Live Demo</a>
                     </div>
                 </article>
                 <article className="portofolio__item">
@@ -35,8 +35,8 @@ const Portofolio = () => {
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portofolio__item-cta">
-                        <a href="https://github.com/wahyuucandra" className="btn" target="_blank">Github</a>
-                        <a href="https://github.com/wahyuucandra" className="btn btn-primary" target="_blank">Live Demo</a>
+                        <a href="https://github.com/bangjip22" className="btn" target="_blank">Github</a>
+                        <a href="https://github.com/bangjip22" className="btn btn-primary" target="_blank">Live Demo</a>
                     </div>
                 </article>
                 <article className="portofolio__item">
@@ -45,8 +45,8 @@ const Portofolio = () => {
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portofolio__item-cta">
-                        <a href="https://github.com/wahyuucandra" className="btn" target="_blank">Github</a>
-                        <a href="https://github.com/wahyuucandra" className="btn btn-primary" target="_blank">Live Demo</a>
+                        <a href="https://github.com/bangjip22" className="btn" target="_blank">Github</a>
+                        <a href="https://github.com/bangjip22" className="btn btn-primary" target="_blank">Live Demo</a>
                     </div>
                 </article>
                 <article className="portofolio__item">
@@ -55,8 +55,8 @@ const Portofolio = () => {
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portofolio__item-cta">
-                        <a href="https://github.com/wahyuucandra" className="btn" target="_blank">Github</a>
-                        <a href="https://github.com/wahyuucandra" className="btn btn-primary" target="_blank">Live Demo</a>
+                        <a href="https://github.com/bangjip22" className="btn" target="_blank">Github</a>
+                        <a href="https://github.com/bangjip22" className="btn btn-primary" target="_blank">Live Demo</a>
                     </div>
                 </article>
                 <article className="portofolio__item">
@@ -65,8 +65,8 @@ const Portofolio = () => {
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portofolio__item-cta">
-                        <a href="https://github.com/wahyuucandra" className="btn" target="_blank">Github</a>
-                        <a href="https://github.com/wahyuucandra" className="btn btn-primary" target="_blank">Live Demo</a>
+                        <a href="https://github.com/bangjip22" className="btn" target="_blank">Github</a>
+                        <a href="https://github.com/bangjip22" className="btn btn-primary" target="_blank">Live Demo</a>
                     </div>
                 </article>
             </div>

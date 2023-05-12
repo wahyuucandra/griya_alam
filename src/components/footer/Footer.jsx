@@ -20,13 +20,13 @@ const Footer = () => {
             </ul>
             
             <div className="footer__socials">
-                        <a href="https://www.linkedin.com/in/wahyu-buana-2182211ab/" target="_blank"><BsLinkedin/></a>
-                        <a href="https://github.com/wahyuucandra" target="_blank"><FaGithub/></a>
-                        <a href="https://www.instagram.com/wahyucandraaa/" target="_blank"><FaInstagram/></a>
+                        <a href="https://www.linkedin.com/in/michael-owen-4384431a2/" target="_blank"><BsLinkedin/></a>
+                        <a href="https://github.com/bangjip22" target="_blank"><FaGithub/></a>
+                        <a href="https://www.instagram.com/bangjip22/" target="_blank"><FaInstagram/></a>
                     </div>
 
             <div className="footer__copyright">
-                <small>&copy; Wahyu Candra Buana. All rights reserved</small>
+                <small>&copy; Owen Sound. All rights reserved</small>
             </div>
         </footer>
     );
